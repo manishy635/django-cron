@@ -1,17 +1,1 @@
-{ "item":  [
-    {
-      "value": 16,
-      "text": "Long past due"
-    },
-    {
-      "value": 64,
-      "text": "Overdue"
-    },
-    {
-      "value": 32,
-      "text": "Due"
-    }
-    
-  ]
-  }
-
+{"x_axis": {"series": [{"data": [6, 1, 1, 1]}], "labels": ["Electronics", "Fashion", "Home and Kitchen", "Auto Accessories"]}}
