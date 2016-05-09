@@ -1,10 +1,9 @@
 {
   "x_axis": {
-    "labels": ["open", "pending", "solved", "closed"]
-  },
-  "series": [
-    {
-      "data": [45, 4, 251, 554]
-    }
-  ]
+      "labels": ["Electronics", "Fashion", "Home and Kitchen", "Auto Accessories"]
+  },"series": [
+            {
+              "data": [6, 1, 1, 1]
+            }
+          ]
 }
